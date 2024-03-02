@@ -1,5 +1,7 @@
 # MEAN stack example: CRUD with Angular 17
 
+# Observación: El proyecto ha sido migrado manualmente por @calis307 a Angular 17 con las nuevas directivas de control, standalone para los componentes y actualizado el fichero app.routes.ts. lo demás son creéditos para el autor original
+
 In this tutorial, I will show you how to build a full-stack (MEAN stack) Angular 16 + Node.js example with a CRUD Application. The back-end server uses Node.js + Express for REST APIs and connects with MongoDB database, front-end side is an Angular App with HTTPClient.
 
 We will build a full-stack Tutorial Application in that:
